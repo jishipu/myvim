@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/opt/home/jishipu/.vim'
+let g:netrw_dirhist_2='/etc/httpd/vm'
+let g:netrw_dirhist_3='/opt/home/weiziqian/.virtualenvs'
+let g:netrw_dirhist_4='/opt/home/weiziqian/campaign'
+let g:netrw_dirhist_5='/opt/home/jishipu/.vim'
+let g:netrw_dirhist_6='/opt/home/jishipu/mt/.git/hooks'
